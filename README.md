@@ -39,9 +39,9 @@
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake-dark.svg?v=purple_green_new">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=purple_green_new">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=purple_green_new" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake-dark.svg?v=1735630000">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=1735630000">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=1735630000" />
   </picture>
 
 </div>
