@@ -1,0 +1,34 @@
+name: Generate Snake
+
+on:
+  # 每天午夜运行一次
+  schedule:
+    - cron: "0 0 * * *" 
+  # 允许手动运行
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@v2
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            # 方案 A：深色背景，紫色渐变到亮蓝 (非常炫酷)
+            # color_snake: 蛇的颜色 (青色)
+            # color_dots: 背景色, 贡献少(深紫), 中等(紫), 较多(浅紫), 最多(亮蓝)
+            dist/github-contribution-grid-snake.svg?color_snake=#00f2ff&color_dots=#161b22,#452899,#6d28d9,#9854e6,#3b82f6
+            
+            # 方案 B (备用)：如果不喜欢上面的，这个是更深邃的蓝紫调
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#2a0a5e,#5319e7,#0075ff,#00f2ff
+            
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
