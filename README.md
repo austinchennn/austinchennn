@@ -9,10 +9,10 @@
 
 ### 🚀 About Me
 
-- I’m currently working on **ML, DL, and LLM** projects.
-- I am a **CS + STA Double Specialist** at the **University of Toronto**.
-- Learning about **Reinforcement Learning** & **Agentic Workflows**.
-- Fun fact: **Knowledge is Human**.
+- **ML / DL / LLM**
+- **CS + STA Double Specialist** at the **University of Toronto**.
+- **Reinforcement Learning** & **Agentic Workflows**.
+- **Knowledge is Human**.
 
 ---
 
