@@ -39,9 +39,9 @@
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake-dark.svg?v=cyberpunk_final">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=cyberpunk_final">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=cyberpunk_final" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake-dark.svg?v=final_cyberpunk">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=final_cyberpunk">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=final_cyberpunk" />
   </picture>
 
 </div>
