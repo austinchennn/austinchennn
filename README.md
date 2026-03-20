@@ -1,7 +1,7 @@
 # Hi, I am Austin Chen
 
 <div align="center">
-  <h3>CS + STA Double Specialist at UofT 🎓</h3>
+  <h3>CS + Applied at UofT 🎓</h3>
   <p><i>"Knowledge is Human"</i></p>
 </div>
 
