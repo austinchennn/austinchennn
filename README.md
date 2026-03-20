@@ -10,8 +10,7 @@
 ### 🚀 About Me
 
 - **ML / DL / LLM**
-- **CS + STA Double Specialist** at the **University of Toronto**.
-- **Reinforcement Learning** & **Agentic Workflows**.
+- **CS + Apploed Math** at the **University of Toronto**.
 - **Knowledge is Human**.
 
 ---
