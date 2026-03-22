@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - **ML / DL / LLM**
-- **CS + Apploed Math** at the **University of Toronto**.
+- **CS + Applied Math** at the **University of Toronto**.
 - **Knowledge is Human**.
 
 ---
