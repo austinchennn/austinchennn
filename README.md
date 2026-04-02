@@ -1,13 +1,13 @@
 # Hi, I am Austin Chen
 
 <div align="center">
-  <h3>CS + Applied at UofT 🎓</h3>
+  <h3>CS + Applied Math at UofT</h3>
   <p><i>"Knowledge is Human"</i></p>
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - **ML / DL / LLM**
 - **CS + Applied Math** at the **University of Toronto**.
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
