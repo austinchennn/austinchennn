@@ -43,9 +43,14 @@
 ### 3D Contributions
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green-animate.svg">
+    
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    
+    <img alt="3D GitHub Contributions" src="profile-3d-contrib/profile-green-animate.svg" width="100%">
+  </picture>
 </div>
-
 ---
 
 ### Github Contributions
