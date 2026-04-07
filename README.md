@@ -32,11 +32,7 @@
 ---
 
 ### GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/austinchennn/austinchennn/main/](https://github.com/austinchennn/austinchennn/edit/main/github-metrics.svg" alt="Austin's Metrics" width="100%" />
-</div>
-
+![Metrics](https://github.com/wuyilingwei/wuyilingwei/blob/main/github-metrics.svg)
 ---
 
 ### Coding Activity
