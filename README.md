@@ -32,9 +32,9 @@
 ---
 
 ### GitHub Stats
-<div align="center">
-  ![Metrics](https://github.com/austinchennn/austinchennn/bot/main/github-metrics.svg)
-</div>
+
+![Metrics](https://github.com/austinchennn/austinchennn/bot/main/github-metrics.svg)
+
 ---
 
 ### Coding Activity
