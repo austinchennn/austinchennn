@@ -33,7 +33,7 @@
 
 ### GitHub Stats
 
-![Metrics](https://github.com/austinchennn/austinchennn/bot/main/github-metrics.svg)
+![Metrics](https://github.com/austinchennn/austinchennn/main/github-metrics.svg)
 
 ---
 
