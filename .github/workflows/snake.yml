@@ -28,10 +28,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # 【保留】你的专属配色：深蓝背景(#050a30) + 紫蛇(#d700ff) + 绿色渐变
+          # 恢复默认配色，保留原版 GitHub 绿和带有时间、月份的标注
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#d700ff&color_dots=#050a30,#003822,#006039,#00a36c,#00ffb1
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#d700ff&color_dots=#050a30,#003822,#006039,#00a36c,#00ffb1
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           # 显式传递 Token，防止 API 速率限制
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
