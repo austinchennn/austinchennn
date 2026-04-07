@@ -46,18 +46,6 @@
 
 ---
 
-### 3D Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D GitHub Contributions" src="profile-3d-contrib/profile-green-animate.svg" width="100%">
-  </picture>
-</div>
-
----
-
 ### Github Contributions
 
 <div align="center">
@@ -68,3 +56,11 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D GitHub Contributions" src="profile-3d-contrib/profile-green-animate.svg" width="100%">
+  </picture>
+</div>
+
