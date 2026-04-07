@@ -34,8 +34,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=austinchennn&show_icons=true&theme=transparent&hide_border=true" alt="Austin's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinchennn&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=austinchennn&show_icons=true&theme=transparent&hide_border=true&cache_seconds=3600" alt="Austin's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinchennn&layout=compact&theme=transparent&hide_border=true&cache_seconds=3600" alt="Top Langs" height="165" />
 </div>
 
 ---
