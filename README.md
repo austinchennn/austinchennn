@@ -32,13 +32,12 @@
 ---
 
 ### GitHub Stats
-![Metrics](https://github.com/wuyilingwei/wuyilingwei/blob/main/github-metrics.svg)
+<div align="center">
+  ![Metrics](https://github.com/wuyilingwei/wuyilingwei/blob/main/github-metrics.svg)
+</div>
 ---
 
 ### Coding Activity
-
-<div align="center">
-  </div>
 
 ---
 
