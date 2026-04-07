@@ -31,16 +31,22 @@
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=austinchennn&show_icons=true&theme=transparent&hide_border=true" alt="Austin's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinchennn&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="35%" />
+</div>
+
+---
+
 ### Github Contributions
 
 <div align="center">
-  
   <br/>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake-dark.svg?v=1735630000">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=1735630000">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg?v=1735630000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg" />
       </picture>
-  
-
 </div>
