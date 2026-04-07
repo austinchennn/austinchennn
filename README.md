@@ -33,9 +33,7 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/austinchennn/austinchennn/main/github-metrics.svg" alt="Metrics" width="100%" />
-</div>
+  ![Metrics](https://github.com/austinchennn/austinchennn/main/github-metrics.svg)
 
 ---
 
