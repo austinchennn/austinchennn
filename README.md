@@ -33,7 +33,7 @@
 
 ### GitHub Stats
 <div align="center">
-  ![Metrics](https://github.com/wuyilingwei/wuyilingwei/blob/main/github-metrics.svg)
+  ![Metrics](https://github.com/austinchennn/austinchennn/bot/main/github-metrics.svg)
 </div>
 ---
 
