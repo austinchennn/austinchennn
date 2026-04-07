@@ -34,9 +34,15 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=austinchennn&show_icons=true&theme=transparent&hide_border=true&cache_seconds=3600" alt="Austin's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinchennn&layout=compact&theme=transparent&hide_border=true&cache_seconds=3600" alt="Top Langs" height="165" />
+  <img src="https://raw.githubusercontent.com/austinchennn/austinchennn/main/github-metrics.svg" alt="Austin's Metrics" width="100%" />
 </div>
+
+---
+
+### Coding Activity
+
+<div align="center">
+  </div>
 
 ---
 
@@ -49,15 +55,16 @@
     <img alt="3D GitHub Contributions" src="profile-3d-contrib/profile-green-animate.svg" width="100%">
   </picture>
 </div>
+
 ---
 
 ### Github Contributions
 
 <div align="center">
   <br/>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg" />
-      </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/austinchennn/austinchennn/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
