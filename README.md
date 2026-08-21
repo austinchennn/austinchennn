@@ -1,16 +1,7 @@
-# Hi, I am Austin Chen
-
-<div align="center">
-  <h3>CS + Applied Math at UofT</h3>
-  <p><i>"Knowledge is Human"</i></p>
-</div>
-
----
-
 ### About Me
 
 - **ML / DL / LLM**
-- **CS + Applied Math** at the **University of Toronto**.
+- **CS Specialist** at the **University of Toronto**.
 - **Knowledge is Human**.
 
 ---
