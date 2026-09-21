@@ -7,7 +7,7 @@
 
 ---
 
-### ⚙️ Technical Ecosystem
+### Technical stack
 
 | Category | Skills & Technologies |
 | :--- | :--- |
