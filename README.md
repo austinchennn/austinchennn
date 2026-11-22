@@ -57,17 +57,13 @@ TeX          7 hrs                 ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
-### Open Source Contributions
+### Open Source Projects
 
-![Merged PRs](https://img.shields.io/badge/merged%20PRs-6-2ea44f?style=for-the-badge&logo=github) ![Projects](https://img.shields.io/badge/projects-5-0969da?style=for-the-badge&logo=git&logoColor=white) ![Latest](https://img.shields.io/badge/latest%20merge-2026--11--15-8957e5?style=for-the-badge)
-
-| Project | Merged PR | Date |
-| :--- | :--- | :--- |
-| [**gptme/gptme**](https://github.com/gptme/gptme) ![stars](https://img.shields.io/github/stars/gptme/gptme?style=flat&logo=github&label=%E2%98%85) | [#4885](https://github.com/gptme/gptme/pull/4885) fix(storage): hash copied attachment bytes before publishing | 2026-11-13 |
-| [**shibing624/agentica**](https://github.com/shibing624/agentica) ![stars](https://img.shields.io/github/stars/shibing624/agentica?style=flat&logo=github&label=%E2%98%85) | [#44](https://github.com/shibing624/agentica/pull/44) fix: honor CSV row limits before parsing later records | 2026-11-14 |
-| [**stumpy-dev/stumpy**](https://github.com/stumpy-dev/stumpy) ![stars](https://img.shields.io/github/stars/stumpy-dev/stumpy?style=flat&logo=github&label=%E2%98%85) | [#1221](https://github.com/stumpy-dev/stumpy/pull/1221) Migrate tests/test_snippets.py to npt.assert_allclose | 2026-11-14 |
-| [**stumpy-dev/stumpy**](https://github.com/stumpy-dev/stumpy) ![stars](https://img.shields.io/github/stars/stumpy-dev/stumpy?style=flat&logo=github&label=%E2%98%85) | [#1222](https://github.com/stumpy-dev/stumpy/pull/1222) Migrate STIMP tests to assert_allclose | 2026-11-14 |
-| [**aeon-toolkit/aeon**](https://github.com/aeon-toolkit/aeon) ![stars](https://img.shields.io/github/stars/aeon-toolkit/aeon?style=flat&logo=github&label=%E2%98%85) | [#4021](https://github.com/aeon-toolkit/aeon/pull/4021) [DOC] Describe actual clusterer tolerance criteria | 2026-11-14 |
-| [**himanshu748/omnidev**](https://github.com/himanshu748/omnidev) ![stars](https://img.shields.io/github/stars/himanshu748/omnidev?style=flat&logo=github&label=%E2%98%85) | [#29](https://github.com/himanshu748/omnidev/pull/29) chore(mcp): migrate server and marketplace to SDK v2 | 2026-11-15 |
-
-<sub>Only PRs verified as merged on GitHub are listed.</sub>
+| Project | GitHub Stars |
+| :--- | :--- |
+| [**gptme/gptme**](https://github.com/gptme/gptme) | ![Stars](https://img.shields.io/github/stars/gptme/gptme?style=flat&logo=github&label=stars) |
+| [**shibing624/agentica**](https://github.com/shibing624/agentica) | ![Stars](https://img.shields.io/github/stars/shibing624/agentica?style=flat&logo=github&label=stars) |
+| [**stumpy-dev/stumpy**](https://github.com/stumpy-dev/stumpy) | ![Stars](https://img.shields.io/github/stars/stumpy-dev/stumpy?style=flat&logo=github&label=stars) |
+| [**aeon-toolkit/aeon**](https://github.com/aeon-toolkit/aeon) | ![Stars](https://img.shields.io/github/stars/aeon-toolkit/aeon?style=flat&logo=github&label=stars) |
+| [**himanshu748/omnidev**](https://github.com/himanshu748/omnidev) | ![Stars](https://img.shields.io/github/stars/himanshu748/omnidev?style=flat&logo=github&label=stars) |
+| [**evalstate/fast-agent**](https://github.com/evalstate/fast-agent) | ![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat&logo=github&label=stars) |
