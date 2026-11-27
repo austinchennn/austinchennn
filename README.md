@@ -64,13 +64,16 @@ TeX          7 hrs                 ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <tbody>
 <tr>
 <td align="center" width="33%"><a href="https://github.com/gptme/gptme"><strong>gptme/gptme</strong></a><br/><br/><img src="https://img.shields.io/github/stars/gptme/gptme?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
-<td align="center" width="33%"><a href="https://github.com/shibing624/agentica"><strong>shibing624/agentica</strong></a><br/><br/><img src="https://img.shields.io/github/stars/shibing624/agentica?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
 <td align="center" width="33%"><a href="https://github.com/stumpy-dev/stumpy"><strong>stumpy-dev/stumpy</strong></a><br/><br/><img src="https://img.shields.io/github/stars/stumpy-dev/stumpy?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
+<td align="center" width="33%"><a href="https://github.com/evalstate/fast-agent"><strong>evalstate/fast-agent</strong></a><br/><br/><img src="https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
 </tr>
 <tr>
+<td align="center" width="33%"><a href="https://github.com/sgl-project/sglang-omni"><strong>sgl-project/sglang-omni</strong></a><br/><br/><img src="https://img.shields.io/github/stars/sgl-project/sglang-omni?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
 <td align="center" width="33%"><a href="https://github.com/aeon-toolkit/aeon"><strong>aeon-toolkit/aeon</strong></a><br/><br/><img src="https://img.shields.io/github/stars/aeon-toolkit/aeon?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
+<td align="center" width="33%"><a href="https://github.com/shibing624/agentica"><strong>shibing624/agentica</strong></a><br/><br/><img src="https://img.shields.io/github/stars/shibing624/agentica?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
+</tr>
+<tr>
 <td align="center" width="33%"><a href="https://github.com/himanshu748/omnidev"><strong>himanshu748/omnidev</strong></a><br/><br/><img src="https://img.shields.io/github/stars/himanshu748/omnidev?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
-<td align="center" width="33%"><a href="https://github.com/evalstate/fast-agent"><strong>evalstate/fast-agent</strong></a><br/><br/><img src="https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=718096" alt="GitHub stars"/></td>
 </tr>
 </tbody>
 </table>
